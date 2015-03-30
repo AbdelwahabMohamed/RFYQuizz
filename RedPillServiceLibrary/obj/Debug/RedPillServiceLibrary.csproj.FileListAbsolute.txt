@@ -1,0 +1,8 @@
+E:\Development\Practice Solutions\ReadifyServiceConsumer\RedPillServiceLibrary\bin\Debug\RedPillServiceLibrary.dll.config
+E:\Development\Practice Solutions\ReadifyServiceConsumer\RedPillServiceLibrary\bin\Debug\RedPillServiceLibrary.dll
+E:\Development\Practice Solutions\ReadifyServiceConsumer\RedPillServiceLibrary\bin\Debug\RedPillServiceLibrary.pdb
+E:\Development\Practice Solutions\ReadifyServiceConsumer\RedPillServiceLibrary\bin\Debug\ReadifyServiceConsumer.exe
+E:\Development\Practice Solutions\ReadifyServiceConsumer\RedPillServiceLibrary\bin\Debug\ReadifyServiceConsumer.pdb
+E:\Development\Practice Solutions\ReadifyServiceConsumer\RedPillServiceLibrary\obj\Debug\RedPillServiceLibrary.csprojResolveAssemblyReference.cache
+E:\Development\Practice Solutions\ReadifyServiceConsumer\RedPillServiceLibrary\obj\Debug\RedPillServiceLibrary.dll
+E:\Development\Practice Solutions\ReadifyServiceConsumer\RedPillServiceLibrary\obj\Debug\RedPillServiceLibrary.pdb

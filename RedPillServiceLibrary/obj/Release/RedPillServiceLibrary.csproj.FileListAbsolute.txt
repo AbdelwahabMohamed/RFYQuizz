@@ -1,0 +1,7 @@
+E:\Development\Practice Solutions\ReadifyServiceConsumer\RedPillServiceLibrary\bin\Release\RedPillServiceLibrary.dll.config
+E:\Development\Practice Solutions\ReadifyServiceConsumer\RedPillServiceLibrary\bin\Release\RedPillServiceLibrary.dll
+E:\Development\Practice Solutions\ReadifyServiceConsumer\RedPillServiceLibrary\bin\Release\RedPillServiceLibrary.pdb
+E:\Development\Practice Solutions\ReadifyServiceConsumer\RedPillServiceLibrary\obj\Release\RedPillServiceLibrary.csprojResolveAssemblyReference.cache
+E:\Development\Practice Solutions\ReadifyServiceConsumer\RedPillServiceLibrary\obj\Release\XsdGeneratedCode\GeneratedXsdTypes.cs
+E:\Development\Practice Solutions\ReadifyServiceConsumer\RedPillServiceLibrary\obj\Release\RedPillServiceLibrary.dll
+E:\Development\Practice Solutions\ReadifyServiceConsumer\RedPillServiceLibrary\obj\Release\RedPillServiceLibrary.pdb

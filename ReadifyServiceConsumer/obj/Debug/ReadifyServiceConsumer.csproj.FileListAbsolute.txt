@@ -1,0 +1,5 @@
+E:\Development\Practice Solutions\ReadifyServiceConsumer\ReadifyServiceConsumer\bin\Debug\ReadifyServiceConsumer.exe.config
+E:\Development\Practice Solutions\ReadifyServiceConsumer\ReadifyServiceConsumer\bin\Debug\ReadifyServiceConsumer.exe
+E:\Development\Practice Solutions\ReadifyServiceConsumer\ReadifyServiceConsumer\bin\Debug\ReadifyServiceConsumer.pdb
+E:\Development\Practice Solutions\ReadifyServiceConsumer\ReadifyServiceConsumer\obj\Debug\ReadifyServiceConsumer.exe
+E:\Development\Practice Solutions\ReadifyServiceConsumer\ReadifyServiceConsumer\obj\Debug\ReadifyServiceConsumer.pdb

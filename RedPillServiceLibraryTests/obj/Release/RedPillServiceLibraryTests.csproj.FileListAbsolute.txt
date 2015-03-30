@@ -1,0 +1,7 @@
+E:\Development\Practice Solutions\ReadifyServiceConsumer\RedPillServiceLibraryTests\bin\Release\RedPillServiceLibraryTests.dll
+E:\Development\Practice Solutions\ReadifyServiceConsumer\RedPillServiceLibraryTests\bin\Release\RedPillServiceLibraryTests.pdb
+E:\Development\Practice Solutions\ReadifyServiceConsumer\RedPillServiceLibraryTests\bin\Release\RedPillServiceLibrary.dll
+E:\Development\Practice Solutions\ReadifyServiceConsumer\RedPillServiceLibraryTests\bin\Release\RedPillServiceLibrary.pdb
+E:\Development\Practice Solutions\ReadifyServiceConsumer\RedPillServiceLibraryTests\obj\Release\RedPillServiceLibraryTests.csprojResolveAssemblyReference.cache
+E:\Development\Practice Solutions\ReadifyServiceConsumer\RedPillServiceLibraryTests\obj\Release\RedPillServiceLibraryTests.dll
+E:\Development\Practice Solutions\ReadifyServiceConsumer\RedPillServiceLibraryTests\obj\Release\RedPillServiceLibraryTests.pdb
