@@ -11,39 +11,36 @@ namespace ReadifyServiceConsumer
         private static void RunService()
         {
             var proxy = new MyRedPillServiceClient();
-            for (int i = 0; i < 94; i++)
-            {
-                Console.WriteLine(proxy.FibonacciNumber(i));
-            }
-            //string toRev = "abcd efgh";
-            //var s = new Stopwatch();
-            ////R words
-            //s.Start();
-            //for (int i = 0; i < 30; i++)
-            //{
-            //    proxy.ReverseWords(toRev);
-            //}
-            //s.Stop();
-            //Console.WriteLine("Reverse took : " + s.Elapsed.Seconds);
 
-            ////F Number
-            //s.Reset();
-            //s.Start();
-            //for (int i = 0; i < 30; i++)
-            //{
-            //    proxy.FibonacciNumber(23);
-            //}
-            //s.Stop();
-            //Console.WriteLine("F  Number took : " + s.Elapsed.Seconds);
-            ////What is the shape
-            //s.Reset();
-            //s.Start();
-            //for (int i = 0; i < 30; i++)
-            //{
-            //    proxy.WhatShapeIsThis(i, 4, i + 1);
-            //}
-            //s.Stop();
-            //Console.WriteLine("What took : " + s.Elapsed.Seconds);
+            string toRev = "abcd efgh";
+            var s = new Stopwatch();
+            //R words
+            s.Start();
+            for (int i = 0; i < 30; i++)
+            {
+                proxy.ReverseWords(toRev);
+            }
+            s.Stop();
+            Console.WriteLine("Reverse took : " + s.Elapsed.Seconds);
+
+            //F Number
+            s.Reset();
+            s.Start();
+            for (int i = 0; i < 30; i++)
+            {
+                proxy.FibonacciNumber(23);
+            }
+            s.Stop();
+            Console.WriteLine("F  Number took : " + s.Elapsed.Seconds);
+            //What is the shape
+            s.Reset();
+            s.Start();
+            for (int i = 0; i < 30; i++)
+            {
+                proxy.WhatShapeIsThis(i, 4, i + 1);
+            }
+            s.Stop();
+            Console.WriteLine("What took : " + s.Elapsed.Seconds);
             Console.WriteLine("======================\n========================");
         }
 
