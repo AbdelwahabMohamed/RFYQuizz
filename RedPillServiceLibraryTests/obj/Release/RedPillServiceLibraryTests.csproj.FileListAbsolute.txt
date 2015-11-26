@@ -5,3 +5,10 @@ E:\Development\Practice Solutions\ReadifyServiceConsumer\RedPillServiceLibraryTe
 E:\Development\Practice Solutions\ReadifyServiceConsumer\RedPillServiceLibraryTests\obj\Release\RedPillServiceLibraryTests.csprojResolveAssemblyReference.cache
 E:\Development\Practice Solutions\ReadifyServiceConsumer\RedPillServiceLibraryTests\obj\Release\RedPillServiceLibraryTests.dll
 E:\Development\Practice Solutions\ReadifyServiceConsumer\RedPillServiceLibraryTests\obj\Release\RedPillServiceLibraryTests.pdb
+E:\RFYQuizz-master\RFYQuizz\trunk\RedPillServiceLibraryTests\bin\Release\RedPillServiceLibraryTests.dll
+E:\RFYQuizz-master\RFYQuizz\trunk\RedPillServiceLibraryTests\bin\Release\RedPillServiceLibraryTests.pdb
+E:\RFYQuizz-master\RFYQuizz\trunk\RedPillServiceLibraryTests\bin\Release\RedPillServiceLibrary.dll
+E:\RFYQuizz-master\RFYQuizz\trunk\RedPillServiceLibraryTests\bin\Release\RedPillServiceLibrary.pdb
+E:\RFYQuizz-master\RFYQuizz\trunk\RedPillServiceLibraryTests\obj\Release\RedPillServiceLibraryTests.csprojResolveAssemblyReference.cache
+E:\RFYQuizz-master\RFYQuizz\trunk\RedPillServiceLibraryTests\obj\Release\RedPillServiceLibraryTests.dll
+E:\RFYQuizz-master\RFYQuizz\trunk\RedPillServiceLibraryTests\obj\Release\RedPillServiceLibraryTests.pdb
