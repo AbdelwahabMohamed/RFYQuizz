@@ -14,7 +14,7 @@ namespace RedPillServiceLibrary
         }
 
         /// <summary>
-        ///     Finding  the nth Fibonaccinumber
+        ///  Finding  the nth Fibonaccinumber
         /// </summary>
         /// <param name="n">index</param>
         /// <returns>value</returns>

@@ -16,7 +16,7 @@ namespace RedPillServiceLibrary.Constants
 
         static void InitFibonacciNumbers()
         {
-            FSequence= new long[93];
+            FSequence= new long[185];
             int i = 0;
             long a = 0, b = 1, x = 0;
             while (i <= MaxIndex)

@@ -11,3 +11,4 @@ E:\RFYQuizz-master\RFYQuizz\trunk\RedPillServiceLibrary\bin\Release\RedPillServi
 E:\RFYQuizz-master\RFYQuizz\trunk\RedPillServiceLibrary\obj\Release\XsdGeneratedCode\GeneratedXsdTypes.cs
 E:\RFYQuizz-master\RFYQuizz\trunk\RedPillServiceLibrary\obj\Release\RedPillServiceLibrary.dll
 E:\RFYQuizz-master\RFYQuizz\trunk\RedPillServiceLibrary\obj\Release\RedPillServiceLibrary.pdb
+E:\RFYQuizz-master\RFYQuizz\trunk\RedPillServiceLibrary\obj\Release\RedPillServiceLibrary.csprojResolveAssemblyReference.cache

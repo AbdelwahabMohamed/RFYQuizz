@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedPillServiceLibrary", "Re
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedPillServiceLibraryTests", "RedPillServiceLibraryTests\RedPillServiceLibraryTests.csproj", "{B7F72A31-A3AC-4413-887A-4257F228A380}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadifyServiceHost", "ReadifyServiceHost\ReadifyServiceHost.csproj", "{21781375-B847-4941-97E8-90803AF5A75A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B7F72A31-A3AC-4413-887A-4257F228A380}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7F72A31-A3AC-4413-887A-4257F228A380}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7F72A31-A3AC-4413-887A-4257F228A380}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21781375-B847-4941-97E8-90803AF5A75A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21781375-B847-4941-97E8-90803AF5A75A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21781375-B847-4941-97E8-90803AF5A75A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21781375-B847-4941-97E8-90803AF5A75A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
