@@ -4,3 +4,6 @@ E:\Development\Practice Solutions\ReadifyServiceConsumer\ReadifyServiceConsumer\
 E:\Development\Practice Solutions\ReadifyServiceConsumer\ReadifyServiceConsumer\obj\Release\ReadifyServiceConsumer.csprojResolveAssemblyReference.cache
 E:\Development\Practice Solutions\ReadifyServiceConsumer\ReadifyServiceConsumer\obj\Release\ReadifyServiceConsumer.exe
 E:\Development\Practice Solutions\ReadifyServiceConsumer\ReadifyServiceConsumer\obj\Release\ReadifyServiceConsumer.pdb
+E:\RFYQuizz-master\RFYQuizz\trunk\ReadifyServiceConsumer\bin\Release\ReadifyServiceConsumer.exe.config
+E:\RFYQuizz-master\RFYQuizz\trunk\ReadifyServiceConsumer\obj\Release\ReadifyServiceConsumer.exe
+E:\RFYQuizz-master\RFYQuizz\trunk\ReadifyServiceConsumer\obj\Release\ReadifyServiceConsumer.pdb
